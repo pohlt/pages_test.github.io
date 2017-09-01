@@ -1,2 +1,5 @@
+[project]
+name = Pages Test
+
 [servers.ghpages]
-target = ghpages+https://username/repository.git
+target = ghpages+https://pohlt/pages_test.github.io.git
