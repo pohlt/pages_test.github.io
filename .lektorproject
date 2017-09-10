@@ -1,5 +1,5 @@
 [project]
 name = Pages Test
 
-[servers.ghpages-https]
+[servers.ghpages]
 target = ghpages+https://pohlt/pages_test.github.io
