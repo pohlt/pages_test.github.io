@@ -2,4 +2,4 @@
 name = Pages Test
 
 [servers.ghpages]
-target = ghpages+https://pohlt/pages_test.github.io
+target = ghpages://pohlt/pages_test.github.io
